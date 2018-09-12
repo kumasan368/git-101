@@ -1,15 +1,21 @@
 body {
 	margin: 0;
 	font-family: Helvetica;
+	background: grey;
 }
 
 h1 {
 	font-weight: lighter;
+	color: white;
 }
 
 #logo{
 	height: 80px;
 	width: 80px;
+}
+
+h1:hover {
+	color: black;
 }
 
 #container{
